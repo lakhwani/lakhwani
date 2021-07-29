@@ -1,8 +1,8 @@
-- 👋 hey! i’m @nikhilnlakhwani
-- 👀 i’m into cryptocurrency & blockchain technology! 
-- 🌱 i’m currently learning algorithmic trading
-- 💞️ i’m looking to collaborate on ML & AI projects
-- 📫 how to reach me: nikhilnlakhwani@gmail.com
+- - 👋 hey! i’m @nikhilnlakhwani
+- - 👀 i’m into cryptocurrency & blockchain technology! 
+- - 🌱 i’m currently learning algorithmic trading
+- - 💞️ i’m looking to collaborate on ML & AI projects
+- - 📫 how to reach me: nikhilnlakhwani@gmail.com
 
 <!---
 nikhilnlakhwani/nikhilnlakhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
