@@ -1,11 +1,15 @@
+👋 hey! i’m @nikhilnlakhwani
+
 ```json
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "interested_in": "cryptocurrency & blockchain technology",
+  "currently_learning": "algorithmic trading",
+  "reach_me": "nikhilnlakhwani@gmail.com"
 }
 ```
-- - 👋 hey! i’m @nikhilnlakhwani
+
+👀 http://www.nikhilnlakhwani.com
+
 
 <!---
 nikhilnlakhwani/nikhilnlakhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
