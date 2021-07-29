@@ -2,14 +2,11 @@
 
 ```json
 {
-  "interested_in": "cryptocurrency & blockchain technology",
-  "currently_learning": "algorithmic trading",
-  "reach_me": "nikhilnlakhwani@gmail.com"
+  "interested_in": "cryptocurrency & blockchain technology 🤑",
+  "currently_learning": "algorithmic trading 📈",
+  "reach_me": "nikhilnlakhwani@gmail.com 📫"
 }
 ```
-
-👀 http://www.nikhilnlakhwani.com
-
 
 <!---
 nikhilnlakhwani/nikhilnlakhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
