@@ -5,7 +5,7 @@
   "interested_in": "cryptocurrency & blockchain technology 🤑",
   "currently_learning": "algorithmic trading 📈",
   "reach_me": "nikhilnlakhwani@gmail.com 📫",
-  "json": "derulo 🎶"
+  "json": "derulo 🎹"
 }
 ```
 
