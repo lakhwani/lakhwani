@@ -1,12 +1,12 @@
-<h3> hey! 👋 i’m @lakhwani </h3>	
-json
+👋 hey! i’m @nikhilnlakhwani
+```json
 {
   "interested_in": "cryptocurrency & blockchain technology 🤑",
   "currently_learning": "algorithmic trading 📈",
   "reach_me": "nikhilnlakhwani@gmail.com 📫",
-  "json": "derulo 🎹"
+  "json": "derulo 🎤"
 }
-
+```
 
 <!---
 nikhilnlakhwani/nikhilnlakhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
