@@ -1,4 +1,4 @@
-<h3> 👋 hey! i’m @nikhilnlakhwani <h3/>
+<h3> 👋 hey! i’m @nikhilnlakhwani
 ```json
 {
   "interested_in": "cryptocurrency & blockchain technology 🤑",
