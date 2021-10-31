@@ -3,7 +3,7 @@
 ```json
 {
   "interested_in": "cryptocurrency & blockchain technology 🤑",
-  "currently_learning": "algorithmic trading 📈",
+  "currently_learning": "web3 development 📈",
   "reach_me": "nikhilnlakhwani@gmail.com 📫",
   "json": "derulo 🎹"
 }
