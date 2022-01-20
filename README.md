@@ -2,8 +2,8 @@
 
 ```json
 {
-  "interested_in": "cryptocurrency & blockchain technology 🤑",
-  "currently_learning": "web3 development & solidity 📈",
+  "interested_in": "web3.0 development & DAOs",
+  "currently_learning": "solidity & smart contracts",
   "reach_me": "nikhilnlakhwani@gmail.com 📫",
   "json": "derulo 🎹"
 }
