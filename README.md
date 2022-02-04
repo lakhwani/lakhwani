@@ -2,9 +2,9 @@
 
 ```json
 {
-  "interested_in": "web3.0 development & DAOs",
-  "currently_learning": "solidity & smart contracts",
-  "reach_me": "nikhilnlakhwani@gmail.com 📫",
+  "interested_in": "web3.0 development & DAOs 🌐",
+  "currently_learning": "solidity & smart contracts 🖋",
+  "reach_me": "nikhil.lakhwani@mail.utoronto.ca 📫",
   "json": "derulo 🎹"
 }
 ```
