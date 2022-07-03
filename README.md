@@ -3,7 +3,7 @@
 ```json
 {
   "interested_in": "web3.0 development & DAOs 🌐",
-  "currently_learning": "solidity & smart contracts 🖋",
+  "currently_learning": "solidity & web3.js 🖋",
   "reach_me": "nikhil.lakhwani@mail.utoronto.ca 📫",
   "json": "derulo 🎹"
 }
