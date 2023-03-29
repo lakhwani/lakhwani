@@ -3,7 +3,7 @@
 ```json
 {
   "interested_in": "blockchain development 🚜",
-  "currently_learning": "rust 🚧",
+  "currently_learning": "solidity 💎 && rust 🚧",
   "reach_me": "nikhil.lakhwani@mail.utoronto.ca 📫",
   "json": "derulo 🎹"
 }
