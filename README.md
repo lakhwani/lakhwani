@@ -2,9 +2,9 @@
 
 ```json
 {
-  "interested_in": "blockchain development 🚜",
-  "currently_learning": "solidity 💎 && rust 🚧",
-  "reach_me": "nikhil.lakhwani@mail.utoronto.ca 📫",
+  "interested_in": "full-stack dev && blockchain dev && cybersecurity 🚜",
+  "currently_learning": "rust && solidity 🚧",
+  "reach_me_at": "nikhilnlakhwani@gmail.com 📫",
   "json": "derulo 🎹"
 }
 ```
