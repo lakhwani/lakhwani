@@ -2,8 +2,8 @@
 
 ```json
 {
-  "interested_in": "full-stack, blockchain, cybersecurity 🔑",
-  "currently_learning": "rust, solidity, go 🚧",
+  "interested_in": "cybersecurity & blockchain 🔑",
+  "currently_learning": "rust, go, solidity  🚧",
   "reach_me_at": "nikhilnlakhwani@gmail.com",
   "json": "derulo 🎹"
 }
